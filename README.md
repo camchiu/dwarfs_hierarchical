@@ -1,1 +1,1 @@
-# astr_356
+# ASTR 356 Final Project
